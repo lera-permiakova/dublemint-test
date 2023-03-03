@@ -7,5 +7,6 @@ module.exports = defineConfig({
         additionalData: '@import "~@/assets/mixin.scss";'
       }
     }
-  }
+  },
+  publicPath: '/dublemint-test/'
 })
