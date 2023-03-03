@@ -1,19 +1,4 @@
-# d-new-test
+# Currency converter and exchange rates SPA
 
-## Project setup
-```
-npm install
-```
+## [App](https://lera-permiakova.github.io/dublemint-test/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
